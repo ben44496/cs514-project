@@ -1,0 +1,10 @@
+pandas
+lxml
+ipykernel
+polygon-api-client
+matplotlib
+plotly
+networkx
+scipy
+nbformat>=4.2.0
+scikit-learn
